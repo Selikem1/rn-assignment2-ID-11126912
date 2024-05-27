@@ -18,4 +18,4 @@ In this assignment, I created a new React Native blank template project using Ex
 
 ## Student ID
 
-Your Student ID: 11126912
+Student ID: 11126912
